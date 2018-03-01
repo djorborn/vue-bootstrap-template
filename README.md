@@ -1,0 +1,1 @@
+mdc-vue-template
